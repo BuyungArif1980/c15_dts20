@@ -6,7 +6,7 @@
 **Deadline, Senin, 27 April 2020**
 
 **Tujuan:**
-Untuk mendapatkan pengertian dasar HTML & CSS dan membangun kemampuan-kemampuan perencanaan pembangunan suatu aplikasi berbasis web, kerjasama tim, kemandirian dan komunikasi.
+> Untuk mendapatkan pengertian dasar HTML & CSS dan membangun kemampuan-kemampuan perencanaan pembangunan suatu aplikasi berbasis web, kerjasama tim, kemandirian dan komunikasi.
 
 **Anggota:**
 1. buyungarif#3539
