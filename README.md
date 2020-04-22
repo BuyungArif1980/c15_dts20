@@ -1,5 +1,6 @@
 # c15_dts20
-### PROYEK TIM HTML &amp; CSS KELAS-PRO-C KELOMPOK C15
+### PROYEK TIM HTML &amp; CSS KELAS-PRO-C
+### KELOMPOK C15
 
 **DTS Programming 2020**
 **Deadline, Senin, 27 April 2020**
