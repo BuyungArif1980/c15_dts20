@@ -11,7 +11,7 @@ Untuk mendapatkan pengertian dasar HTML & CSS dan membangun kemampuan-kemampuan 
 1. buyungarif#3539
 2. Chintya.Dewi#0284
 3. Clarissa Olivia#6314
-4. Diftya Twas Galih A #7592
+4. Diftya Twas Galih A#7592
 5. Didit Setya Bahari#4267
 
 **Live environment:**
