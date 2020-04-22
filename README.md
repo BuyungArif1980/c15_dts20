@@ -15,4 +15,6 @@ Untuk mendapatkan pengertian dasar HTML & CSS dan membangun kemampuan-kemampuan 
 5. Didit Setya Bahari#4267
 
 **Live environment:**
-[buyungarif1980.github.io](https://buyungarif1980.github.io/c15_dts20/)
+[buyungarif1980.github.io/c15_dts20/](https://buyungarif1980.github.io/c15_dts20/)
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
