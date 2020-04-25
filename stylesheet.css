@@ -200,10 +200,11 @@ header {
   padding: 20px;
   font-size: 18px;
   border: 1px solid #dee7ec;
+}
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: rgba(82, 82, 82, 1);
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
