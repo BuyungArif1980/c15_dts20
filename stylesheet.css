@@ -137,7 +137,7 @@ header {
   /*display: none;*/
 }
 
-.lesson-wrapper {
+.member-wrapper {
   padding-bottom: 80px;
   padding-left: 5%;
   padding-right: 5%;
@@ -155,23 +155,23 @@ header {
   font-weight: normal;
 }
 
-.lesson {
+.member {
   float: left;
   width: 25%;
 }
 
-.lesson-icon {
+.member-icon {
   position: relative;
 }
 
-.lesson-icon p {
+.member-icon p {
   position: absolute;
   top: 44%;
   width: 100%;
   color: white;
 }
 
-.text-contents {
+.member-name {
   width: 80%;
   display: inline-block;
   margin-top: 15px;
@@ -179,7 +179,7 @@ header {
   /*color: #b3aeb5;*/
 }
 
-.text-contents:link {
+.member-name:link {
   color: #5f5d60
 }
 
