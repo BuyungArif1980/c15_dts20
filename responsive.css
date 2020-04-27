@@ -12,6 +12,17 @@
   .heading h2 {
     font-size: 20px;
   }
+
+/*---Members---*/
+
+  .members {
+    flex-wrap: wrap;
+  }
+
+  .member {
+    width: 50%;
+  }
+
 }
 
 /* Untuk Smartphone */
@@ -22,6 +33,10 @@
 
   footer {
     text-align: center;
+  }
+
+ .top-wrapper p {
+    width: 90%;
   }
 
   .btn {
@@ -55,5 +70,19 @@
     font-size: 14px;
     line-height: 20px;
   }
-}
+
+/*---Members---*/
+  .members {
+    flex-direction: column;
+  }
+
+  .member {
+    margin: 0 auto;
+  }
+
+  .member-name {
+    margin-top: 5px;
+  }
+
 /* test live commit di gh-pages */
+}
