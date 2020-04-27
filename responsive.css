@@ -83,6 +83,10 @@
   .member-name {
     margin-top: 5px;
   }
+  
+  .contact-form input, textarea {
+	  width: 100%;
+  }
 
 /* test live commit di gh-pages */
 }
