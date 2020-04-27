@@ -1,0 +1,249 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Alata";
+}
+
+a {
+  text-decoration: none;
+}
+
+.clear {
+  clear: left;
+}
+
+.container {
+  max-width: 1170px;
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+.top-wrapper {
+  padding: 150px 0 100px 0;
+  background-image: url(../img/abstract-bw-1.jpg);
+  background-size: cover;
+  color: rgba(245, 245, 245, 1);
+  text-align: left;
+}
+
+.top-wrapper h1 {
+  opacity: 0.8;
+  font-size: 50px;
+  letter-spacing: 4px;
+  margin-bottom: 10px;
+  text-shadow: 1px 1px 10px rgba(45, 46, 55, 0.5);
+}
+
+.top-wrapper p {
+  opacity: 0.8;
+  margin-bottom: 3px;
+  width: 600px;
+  font-size: 20px;
+  text-shadow: 1px 1px 5px rgb(45, 46, 55);
+}
+
+.btn-wrapper {
+  text-align: left;
+  margin: 20px 0;
+}
+
+.btn-wrapper p {
+  margin: 10px 0;
+}
+
+.portfolio {
+  background-color: rgba(82, 82, 82, 1);
+}
+
+.facebook {
+  background-color: rgba(111, 111, 111, 1);
+  margin-right: 10px;
+}
+
+.twitter {
+  background-color: rgba(111, 111, 111, 1);
+}
+
+.btn {
+  padding: 12px 24px;
+  color: white;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 3px rgba(45, 46, 55, 1);
+}
+
+.btn:hover {
+  opacity: 1;
+}
+
+.btn:active {
+  position: relative;
+  top: 3px;
+  box-shadow: none;
+}
+
+.fa {
+  margin-right: 5px;
+}
+
+header {
+  height: 65px;
+  width: 100%;
+  background-color: rgba(34, 49, 52, 0.9);
+  position :fixed;
+  top: 0;
+  z-index: 10;
+}
+
+.logo {
+  width: 175px;
+  margin-top: 20px;
+}
+
+.header-left {
+  float: left;
+}
+
+.header-right {
+  float: right;
+  margin-right: -25px;
+}
+
+.header-right a {
+  line-height: 65px;
+  padding: 0 25px;
+  color: white;
+  display: block;
+  float: left;
+  transition: all 0.5s;
+}
+
+.header-right a:hover {
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+/* Tambahkan CSS untuk menu-icon */
+.menu-icon {
+  display: none;
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  /* Gantikan property display ke none */
+  /*display: none;*/
+}
+
+.member-wrapper {
+  padding-bottom: 80px;
+  /*padding-left: 5%;
+  padding-right: 5%;*/
+  background-color: rgba(216, 216, 216, 0.4);
+  text-align: center;
+}
+
+.heading {
+  padding-top: 80px;
+  padding-bottom: 50px;
+  color: #5f5d60;
+}
+
+.heading h2 {
+  font-weight: normal;
+}
+
+.members {
+  display: flex;
+}
+
+.member {
+  float: left;
+  width: 100%;
+  flex: auto;
+}
+
+.member-icon {
+  position: relative;
+}
+
+.member-icon p {
+  position: absolute;
+  top: 44%;
+  width: 100%;
+  color: white;
+}
+
+.member-name {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 20px;
+  /*color: #b3aeb5;*/
+}
+
+.member-name:link {
+  color: #5f5d60
+}
+
+.heading h3 {
+  font-weight: normal;
+}
+
+.message-wrapper {
+  border-bottom: 1px solid #eee;
+  padding-bottom: 80px;
+  text-align: center;
+}
+
+.contact-form {
+  padding-top: 100px;
+}
+
+.contact-form input, textarea {
+  width: 400px;
+  margin-top: 10px;
+  margin-bottom: 30px;
+  padding: 20px;
+  font-size: 18px;
+  border: 1px solid #dee7ec;
+}
+
+.message {
+  padding: 15px 40px;
+  background-color: rgba(82, 82, 82, 1);
+  cursor: pointer;
+  box-shadow: 0 3px rgba(45, 46, 55, 1);
+}
+
+.message:active {
+  position: relative;
+  top: 3px;
+  box-shadow: none;
+}
+
+footer img {
+  width: 125px;
+}
+
+footer p {
+  color: #b3aeb5;
+  font-size: 12px;
+  animation-name: example;
+  animation-duration: 4s;
+}
+
+footer {
+  padding-top: 30px;
+  padding-bottom: 20px;
+}
+
+/* Animation */
+@keyframes example {
+	from {color: red;}
+	to {color: blue;}
+/* test live commit di gh-pages */
