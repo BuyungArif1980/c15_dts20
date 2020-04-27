@@ -233,10 +233,17 @@ footer img {
 footer p {
   color: #b3aeb5;
   font-size: 12px;
+  animation-name: example;
+  animation-duration: 4s;
 }
 
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
 }
+
+/* Animation */
+@keyframes example {
+	from {color: red;}
+	to {color: blue;}
 /* test live commit di gh-pages */
